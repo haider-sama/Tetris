@@ -1,2 +1,5 @@
-# Tetris
-Tetris written using Javascript &amp; HTML5 Canvas.
+# Tetris Game
+### 03.12.2023
+##### [Author: Haider-sama]
+
+Tetris, written using javascript and HTML5 canvas. 
